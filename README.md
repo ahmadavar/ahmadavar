@@ -59,13 +59,17 @@
 
 ## 🔥 Featured Projects
 
-[![Reddit MMA/Boxing NLP Classifier](https://github-readme-stats.vercel.app/api/pin/?username=ahmadavar&repo=reddit-mma-boxing-nlp-classifier_GA_3rd_project&theme=tokyonight&hide_border=true)](https://github.com/ahmadavar/reddit-mma-boxing-nlp-classifier_GA_3rd_project)
+### 🥊 [Reddit MMA/Boxing NLP Classifier](https://github.com/ahmadavar/reddit-mma-boxing-nlp-classifier_GA_3rd_project)
+Natural Language Processing classifier to distinguish between MMA and Boxing content from Reddit posts. Built with Python and scikit-learn.
 
-[![Ames Housing Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ahmadavar&repo=ames-housing_price_prediction_GA_2nd_project&theme=tokyonight&hide_border=true)](https://github.com/ahmadavar/ames-housing_price_prediction_GA_2nd_project)
+### 🏠 [Ames Housing Price Prediction](https://github.com/ahmadavar/ames-housing_price_prediction_GA_2nd_project)
+Machine learning model predicting house prices using the Ames Housing dataset. Features regression analysis and data visualization.
 
-[![National Baseball League Analysis](https://github-readme-stats.vercel.app/api/pin/?username=ahmadavar&repo=code_the_dream_capstone_national_baseball_league&theme=tokyonight&hide_border=true)](https://github.com/ahmadavar/code_the_dream_capstone_national_baseball_league)
+### ⚾ [National Baseball League Analysis](https://github.com/ahmadavar/code_the_dream_capstone_national_baseball_league)
+Interactive Streamlit dashboard analyzing historical MLB statistics with data cleaning and visualization. Scraped data from Baseball Almanac.
 
-[![Data Engineering Zoomcamp 2026](https://github-readme-stats.vercel.app/api/pin/?username=ahmadavar&repo=data-engineering-zoomcamp-2026&theme=tokyonight&hide_border=true)](https://github.com/ahmadavar/data-engineering-zoomcamp-2026)
+### 🚀 [Data Engineering Zoomcamp 2026](https://github.com/ahmadavar/data-engineering-zoomcamp-2026)
+Complete coursework covering Docker, Apache Airflow, Kubernetes, and modern data engineering practices.
 
 ---
 
