@@ -89,7 +89,6 @@ Complete coursework covering Docker, Apache Airflow, Kubernetes, and modern data
 
 <div align="center">
 
-### "In Data We Trust" 📊
 
 *Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.*
 
