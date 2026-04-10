@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadnaggayev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmadavar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadavar956@gmail.com)
-[![LoanMatch AI](https://img.shields.io/badge/LoanMatch_AI-00C49A?style=flat-square&logo=vercel&logoColor=white)](https://loanmatchai.app)
+[![LoanMatch AI](https://img.shields.io/badge/LoanMatch_AI-00C49A?style=flat-square&logo=vercel&logoColor=white)](https://www.loanmatchai.app)
 
 ---
 
