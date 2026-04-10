@@ -1,16 +1,28 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/48926369?v=4" width="120" style="border-radius:50%"/>
-</div>
+<table>
+<tr>
+<td width="180" valign="top">
+  <img src="https://avatars.githubusercontent.com/u/48926369?v=4" width="160" style="border-radius:12px"/>
+</td>
+<td valign="top">
 
-# Ahmad Naggayev
+## Ahmad Naggayev
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmadavar&color=brightgreen)
 
 **Data Engineer · ML Engineer · AI Builder · Founder**
-📍 San Francisco | [LinkedIn](https://linkedin.com/in/ahmadnaggayev) | ahmadavar956@gmail.com
+📍 San Francisco
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadnaggayev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmadavar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadavar956@gmail.com)
+[![LoanMatch AI](https://img.shields.io/badge/LoanMatch_AI-00C49A?style=flat-square&logo=vercel&logoColor=white)](https://loanmatchai.app)
 
 ---
 
-I build end-to-end data systems and ML-powered products — from ingestion pipelines to production-deployed AI applications. Background in accounting + finance; now full-time in data engineering, machine learning, and applied AI.
+Transitioning from a finance and accounting background into data engineering and applied AI — building production systems, not just learning from tutorials. Currently focused on landing a data engineering role while shipping real products that solve real problems.
+
+</td>
+</tr>
+</table>
 
 ---
 
