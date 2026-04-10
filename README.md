@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/48926369?v=4" width="120" style="border-radius:50%"/>
+</div>
+
 # Ahmad Naggayev
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmadavar&color=brightgreen)
 
