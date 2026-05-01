@@ -138,11 +138,53 @@ Oracle blocks all ports by default — open these:
 
 ---
 
+## STEP 9 — VS Code / Cursor Remote SSH (see plots, full IDE)
+
+VS Code and Cursor both support Remote SSH — your Mac is a thin client, all compute runs on the Oracle VM.
+
+### One-time setup on Mac:
+1. Install VS Code: https://code.visualstudio.com or Cursor: https://cursor.com
+2. Open VS Code/Cursor → Extensions → search "Remote - SSH" → Install
+3. Make sure `~/.ssh/config` has the `oracle-dev` entry from Step 4
+
+### Connect:
+```
+Cmd+Shift+P → "Remote-SSH: Connect to Host" → oracle-dev
+```
+Full IDE opens with file explorer, terminal, extensions — all running on the VM.
+
+### For plots (two options):
+
+**Option A — Jupyter inside VS Code (easiest):**
+```bash
+# Inside VM, install Jupyter
+pip install jupyterlab matplotlib pandas seaborn
+
+# In VS Code: open any .ipynb file → plots render inline
+```
+
+**Option B — JupyterLab in browser:**
+```bash
+# Inside VM
+jupyter lab --no-browser --port=8888
+
+# VS Code auto-forwards the port — open localhost:8888 in Mac browser
+```
+
+### Cursor + Claude Code together:
+- Cursor has its own AI (uses Claude/GPT) for inline edits
+- Claude Code CLI still runs in the same terminal for agentic tasks
+- Use both — Cursor for IDE experience, Claude Code for multi-file tasks
+
+---
+
 ## Daily workflow
 
 ```bash
 # From Mac terminal
-ssh oracle-dev
+ssh oracle-dev          # CLI only
+
+# OR open VS Code/Cursor → Remote-SSH → oracle-dev   (full IDE + plots)
 
 # Inside VM
 cd ~/jobradar
